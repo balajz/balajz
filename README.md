@@ -26,7 +26,7 @@
 | **Tools & OS** | <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> |
 
 ### Resume
-- [Know about my experiences and view my resume here](https://drive.google.com/file/d/1Iigp8uwoU1ztddohbS5fLk8GSOFfc_VZ/view?usp=sharing)
+- [Know about my experiences and view my resume here](https://drive.google.com/file/d/1ErWi-iSDrG297w8xszEsGwTpFJyZYZCa/view?usp=sharing)
 
 ### Connect with me
 <p align="left">
