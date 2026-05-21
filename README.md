@@ -2,7 +2,7 @@
 
 # Hi, I'm Balaji J
 
-### Backend engineer building authentication systems, APIs, database services, and cloud deployments using Go and Python.
+### Backend Engineer building high-performance APIs, robust CLI tools, database services, and minimalist interfaces.
 
 ### **[ Actively looking for internship opportunities ]**
 
