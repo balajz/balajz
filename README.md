@@ -1,11 +1,4 @@
-<p align="center">
-  <img 
-    src="https://github.com/balajz/balajz/raw/main/quote-card(1).png"
-    width="400"
-    height="250"
-    alt="Quote Card"
-  />
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350" alt="Quote Card" />
 
 # Hi, I'm Balaji J
 
@@ -17,6 +10,8 @@
 - I am currently working on **Pgxcli, a PostgreSQL CLI client written in Go.**
 
 ### I use arch btw <img align="center" src="https://skillicons.dev/icons?i=arch" width="35" height="35" alt="Arch Linux" />
+
+<br clear="both">
 
 ### Languages and Tools
 
