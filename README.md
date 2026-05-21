@@ -13,17 +13,23 @@
 
 ### **[ Actively looking for internship opportunities ]**
 
-
 ### Current Projects
 - I am currently working on **Pgxcli, a PostgreSQL CLI client written in Go.**
+
+### I use arch btw <img align="center" src="https://skillicons.dev/icons?i=arch" width="35" height="35" alt="Arch Linux" />
+
 ### Languages and Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> |
-| **Databases** | <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> |
-| **Frameworks** | <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> |
-| **Tools & OS** | <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> |
+| **Languages** | <img align="center" src="https://skillicons.dev/icons?i=java,py,go,bash,ts" alt="Languages" /> |
+| **Databases** | <img align="center" src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite" alt="Databases" /> |
+| **Frameworks** | <img align="center" src="https://skillicons.dev/icons?i=django,spring,fastapi" alt="Frameworks" /> |
+| **Editors & IDEs** | <img align="center" src="https://skillicons.dev/icons?i=vscode,neovim,pycharm,idea,vscodium" alt="Editors" /> |
+| **DevOps & Cloud** | <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps" /> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" /> |
+| **Tools & Others** | <img align="center" src="https://skillicons.dev/icons?i=git,github,postman,notion,htmx,alpinejs,vercel" alt="Tools" /> |
+| **OS & Environments** | <img align="center" src="https://skillicons.dev/icons?i=linux,arch,ubuntu" alt="OS" /> <img align="center" src="https://i3wm.org/docs/logo-30.png" width="48" height="48" alt="i3wm" /> |
+| **Terminals** | <img align="center" src="https://img.gs/czjpqfbdkz/128,2x/https://raw.githubusercontent.com/wezterm/wezterm/main/assets/icon/wezterm-icon.svg" width="48" height="48" alt="WezTerm" /> <img align="center" src="https://images.icon-icons.com/3053/PNG/512/alacritty_macos_bigsur_icon_190410.png" width="48" height="48" alt="Alacritty" /> |
 
 ### Resume
 - [Know about my experiences and view my resume here](https://drive.google.com/file/d/1ErWi-iSDrG297w8xszEsGwTpFJyZYZCa/view?usp=sharing)
