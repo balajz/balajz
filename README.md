@@ -36,6 +36,9 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://github.com/balajz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="balajz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/balaji01-4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/balaji01-4d" height="30" width="40" /></a>
+<a href="https://github.com/balajz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/balaji01-4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/balajix/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/balaji01-4d" target="blank"><img align="center" src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://pypi.org/user/balaji01-4D/" target="blank"><img align="center" src="https://cdn.simpleicons.org/pypi" alt="PyPI" height="30" width="40" /></a>
 </p>
