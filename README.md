@@ -4,7 +4,6 @@
 
 ### Backend Engineer building high-performance APIs, robust CLI tools, database services, and minimalist interfaces.
 
-### **[ Actively looking for internship opportunities ]**
 
 ### Current Projects
 - I am currently working on **Pgxcli, a PostgreSQL CLI client written in Go.**
