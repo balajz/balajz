@@ -26,7 +26,7 @@
 | **Terminals** | <img align="center" src="https://img.gs/czjpqfbdkz/128,2x/https://raw.githubusercontent.com/wezterm/wezterm/main/assets/icon/wezterm-icon.svg" width="48" height="48" alt="WezTerm" /> <img align="center" src="https://images.icon-icons.com/3053/PNG/512/alacritty_macos_bigsur_icon_190410.png" width="48" height="48" alt="Alacritty" /> |
 
 ### Resume
-- [Know about my experiences and view my resume here](https://drive.google.com/file/d/1ErWi-iSDrG297w8xszEsGwTpFJyZYZCa/view?usp=sharing)
+- [Know about my experiences and view my resume here](https://drive.google.com/file/d/1hde8Jtp61_E3xoDELREbbnTFRTxeRe-2/view?usp=drivesdk)
 
 ### Connect with me
 <p align="left">
