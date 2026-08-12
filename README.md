@@ -1,6 +1,5 @@
 # Hi, I'm Balaji J
 
-<img src="https://github.com/balajz/balajz/blob/main/eren.gif" width="450" alt="Quote Card" />
 
 ### Backend Engineer building high-performance APIs, robust CLI tools, database services, and minimalist interfaces.
 
