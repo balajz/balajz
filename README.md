@@ -3,10 +3,6 @@
 
 ### Backend Engineer building high-performance APIs, robust CLI tools, database services, and minimalist interfaces.
 
-
-### Current Projects
-- I am currently working on **Pgxcli, a PostgreSQL CLI client written in Go.**
-
 ### I use arch btw <img align="center" src="https://skillicons.dev/icons?i=arch" width="35" height="35" alt="Arch Linux" />
 
 <br clear="both">
