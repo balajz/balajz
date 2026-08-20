@@ -15,7 +15,7 @@
 | **Languages** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=golang,java,python,bash" alt="Languages" /> |
 | **Databases** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,mongodb,sqlite" alt="Databases" /> |
 | **Frameworks** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=gin,django,spring,fastapi,gorm" alt="Frameworks" /> |
-| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscode,neovim,pycharm,idea,vscodium" alt="Editors" /> |
+| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscode,neovim,idea" alt="Editors" /> |
 | **DevOps & Cloud** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws" alt="DevOps" /> |
 | **Tools & Others** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,notion,obsidian,tmux" alt="Tools" /> |
 | **OS & Environments** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,macos,i3" alt="OS" /> |
