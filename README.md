@@ -4,6 +4,7 @@
 ### Backend Engineer building high-performance APIs, robust CLI tools, database services, and minimalist interfaces.
 
 ### I use arch btw <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=arch" width="35" height="35" alt="Arch Linux" />
+### I love catppuccin theme btw <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=catppuccin" width="35" height="35" alt="Catppuccin" />
 
 <br clear="both">
 
@@ -11,14 +12,14 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,python,golang,bash" alt="Languages" /> |
-| **Databases** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,redis,mongodb,sqlite" alt="Databases" /> |
-| **Frameworks** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=django,spring,fastapi,gin,gorm" alt="Frameworks" /> |
-| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,pycharm,idea,vscodium,zed" alt="Editors" /> |
-| **DevOps & Cloud** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=docker,helm,aws" alt="DevOps" /> |
-| **Tools & Others** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,notion,obsidian,htmx,alpinejs,regex,tmux,catppuccin,htop" alt="Tools" /> |
+| **Languages** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=golang,java,python,bash" alt="Languages" /> |
+| **Databases** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,mongodb,sqlite" alt="Databases" /> |
+| **Frameworks** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=gin,django,spring,fastapi,gorm" alt="Frameworks" /> |
+| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscode,neovim,pycharm,idea,vscodium" alt="Editors" /> |
+| **DevOps & Cloud** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws" alt="DevOps" /> |
+| **Tools & Others** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,notion,obsidian,htmx,alpinejs,regex,tmux,htop" alt="Tools" /> |
 | **OS & Environments** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,macos,i3" alt="OS" /> |
-| **Terminals** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wezterm,alacritty,ghostty" alt="Terminals" /> |
+| **Terminals** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ghostty,wezterm,alacritty" alt="Terminals" /> |
 
 ### Resume
 - [Know about my experiences and view my resume here](https://drive.google.com/file/d/1hde8Jtp61_E3xoDELREbbnTFRTxeRe-2/view?usp=drivesdk)
