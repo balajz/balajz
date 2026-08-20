@@ -11,12 +11,12 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,python,golang,bash,typescript" alt="Languages" /> |
+| **Languages** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,python,golang,bash" alt="Languages" /> |
 | **Databases** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,redis,mongodb,sqlite" alt="Databases" /> |
 | **Frameworks** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=django,spring,fastapi,gin,gorm" alt="Frameworks" /> |
-| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,pycharm,idea,vscodium" alt="Editors" /> |
-| **DevOps & Cloud** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,aws" alt="DevOps" /> |
-| **Tools & Others** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,notion,obsidian,htmx,alpinejs,vercel,regex,tmux,catppuccin,htop" alt="Tools" /> |
+| **Editors & IDEs** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,pycharm,idea,vscodium,zed" alt="Editors" /> |
+| **DevOps & Cloud** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=docker,helm,aws" alt="DevOps" /> |
+| **Tools & Others** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,notion,obsidian,htmx,alpinejs,regex,tmux,catppuccin,htop" alt="Tools" /> |
 | **OS & Environments** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,macos,i3" alt="OS" /> |
 | **Terminals** | <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wezterm,alacritty,ghostty" alt="Terminals" /> |
 
